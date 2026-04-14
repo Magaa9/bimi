@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 680 680">
+  <rect width="680" height="680" fill="#0a0e1a"/>
+  <polygon points="340,80 560,180 560,400 340,580 120,400 120,180" fill="#0d1f3c" stroke="#1a4080" stroke-width="3"/>
+  <polygon points="340,110 535,200 535,390 340,550 145,390 145,200" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <polygon points="340,140 510,220 510,375 340,520 170,375 170,220" fill="none" stroke="#1e40af" stroke-width="1"/>
+  <circle cx="340" cy="330" r="80" fill="none" stroke="#2563eb" stroke-width="1.5"/>
+  <circle cx="340" cy="330" r="60" fill="#0d1f3c" stroke="#1e40af" stroke-width="1"/>
+  <text x="340" y="355" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="52" font-weight="900" fill="#2563eb">MCL</text>
+  <text x="340" y="620" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#2563eb" letter-spacing="4">MAGA CYBERSEC</text>
+  <text x="340" y="648" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#4a7ac8" letter-spacing="6">LABORATORY</text>
+  <line x1="200" y1="630" x2="280" y2="630" stroke="#1e40af" stroke-width="1"/>
+  <line x1="400" y1="630" x2="480" y2="630" stroke="#1e40af" stroke-width="1"/>
+</svg>
